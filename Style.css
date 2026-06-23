@@ -3,6 +3,18 @@
 
 <head>
 <title>Signup Form</title>
+
+<link rel="stylesheet" href="Style.css" />
+
+<style>
+p {
+	background-color: pink;
+	font-size:35px;
+	color:black;
+	text-align:center;
+}
+
+</style>
 </head>
 
 <body>
